@@ -66,7 +66,7 @@ export default function Footer() {
             <div className="flex items-center space-x-3">
               <div className="w-10 h-10 bg-gradient-primary rounded-lg flex items-center justify-center">
                 <img 
-              src="/public/logo.png" 
+              src="/logo.png" 
               alt="Devora Logo" 
               className="w-10 h-10 rounded-lg" 
             />

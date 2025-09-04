@@ -4,7 +4,7 @@ const founders = [
   {
     name: 'Arya Singh',
     role: 'Founder & CEO',
-    image: '/public/arya-singh.png',
+    image: '/arya-singh.png',
     bio: 'Arya is the Founder of Devora, a passionate entrepreneur with a strong vision to build innovative technology solutions. As a fresher, he brings fresh perspectives, creativity, and a drive to transform ideas into impactful products. Arya believes that technology should be human-centric and accessible to everyone.',
     social: {
       linkedin: 'https://www.linkedin.com/in/aryasingh014/',
@@ -15,7 +15,7 @@ const founders = [
   {
     name: 'Ashish Kumar',
     role: 'Co-Founder & CTO',
-    image: '/public/ashish-kumar.png',
+    image: '/ashish-kumar.png',
     bio: 'Ashish is the Co-Founder of Devora, a technology enthusiast with expertise in software development and AI solutions. With hands-on project experience and a strong problem-solving mindset, he is focused on building scalable and efficient products. As a fresher, Ashish combines technical skills with a passion for innovation.',
     social: {
       linkedin: 'https://www.linkedin.com/in/ashishkumar193/',
