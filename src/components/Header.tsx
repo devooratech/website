@@ -32,7 +32,7 @@ export default function Header() {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img 
-              src="/src/assets/logo.png" 
+              src="/public/logo.png" 
               alt="Devora Logo" 
               className="w-10 h-10 rounded-lg" 
             />
